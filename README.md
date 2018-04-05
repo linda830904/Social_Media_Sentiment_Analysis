@@ -944,7 +944,7 @@ plt.savefig("Sentiment_scatter.png")
 ```
 
 
-![png](sentiment_scatter.png)
+![png](Sentiment_scatter.png)
 
 
 
@@ -1030,5 +1030,5 @@ plt.savefig("Sentiment_bar.png")
 ```
 
 
-![png](sentiment_bar.png)
+![png](Sentiment_bar.png)
 
